@@ -1,0 +1,13 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related PROD APIs"
+  contactDetails:
+    name: "Jack Doe - Product Owner"
+    email: "jack@nba.meme"
+  onCallSupport:
+    - (777) 555-1234
+    - (777) 555-2345
+
+

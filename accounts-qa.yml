@@ -1,0 +1,13 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related QA APIs"
+  contactDetails:
+    name: "Jane Doe - QA Lead"
+    email: "jane@nba.meme"
+  onCallSupport:
+    - (666) 555-1234
+    - (666) 555-2345
+
+
